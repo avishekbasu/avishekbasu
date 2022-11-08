@@ -1,2 +1,1 @@
-Solves neutron stars' structure.
-TOV solution.
+Hi, you have reached the github page of Avishek Basu
