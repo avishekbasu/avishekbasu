@@ -15,3 +15,4 @@ Before joining the [University of Manchester](https://www.manchester.ac.uk/) as 
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![HTML]([https://simpleicons.org/?q=html](https://img.shields.io/badge/HTML))
