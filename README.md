@@ -1,7 +1,9 @@
 # Avishek Basu | Astrophysicists
 
 # About me
-I’m a postdoctoral research associate at the [Jodrell Bank Centre for Astrophysics](https://www.jodrellbank.manchester.ac.uk/) of the [University of Manchester](https://www.manchester.ac.uk/) 
-#working on pulsars and time-series analysis, with experience across radio and high-energy astrophysics. My work focuses on extracting weak physical signals from noisy data, building reproducible analysis pipelines, and combining statistical modelling with efficient computation. I’m increasingly interested in large-scale data analysis and modern data tools alongside scientific research.
+I work in time-domain astronomy, with a focus on pulsars and time-series analysis across radio and high-energy astrophysics. My research centres on extracting weak physical signals from noisy data, developing reproducible analysis pipelines, and combining statistical modelling with efficient computation. 
 
-I did my PhD from the [NCRA-TIFR](http://www.ncra.tifr.res.in/ncra/main).
+Alongside my scientific work, I’m increasingly interested in large-scale data analysis and modern data tools, particularly where they intersect with rigorous, physics-driven research.
+
+Before joining the University of Manchester, I completed my PhD in Physics at the [NCRA–TIFR](http://www.ncra.tifr.res.in/ncra/main).
+
