@@ -8,6 +8,4 @@ Alongside my scientific work, I’m increasingly interested in large-scale data 
 Before joining the [University of Manchester](https://www.manchester.ac.uk/) as a Postdoctoral Research Associate at the [Jodrell Bank Centre for Astrophysics](https://www.jodrellbank.manchester.ac.uk/) , I completed my PhD in Physics at the [NCRA–TIFR](http://www.ncra.tifr.res.in/ncra/main).
 
 ## 🛠 Skills
-
-[![My Skills](https://skillicons.dev/icons?i=python,Numpy,pandas,scipy,matplotlib,github)]#
 [![My Skills](https://skillicons.dev/icons?i=python,numpy,scipy,pandas,matplotlib,html,github,linux)](https://skillicons.dev)
