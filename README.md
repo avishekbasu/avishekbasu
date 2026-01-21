@@ -10,3 +10,4 @@ Before joining the [University of Manchester](https://www.manchester.ac.uk/) as 
 ## 🛠 Skills
 
 ![My Skills](https://skillicons.dev/icons?i=python,Numpy,pandas,scipy,matplotlib,github)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
