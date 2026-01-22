@@ -17,7 +17,7 @@ Alongside my scientific work, I’m increasingly interested in large-scale data 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 # 👨‍💼 Experience
-1. Postdoctoral Research Associate -- JBCA UoM (Sep 2020 -- Till date)
+1. Postdoctoral Researcher -- JBCA UoM (Sep 2020 -- Till date)
 2. Visiting Research Fellow -- NCRA-TIFR (April 2020 -- Aug 2020)
 
 # Education
