@@ -23,5 +23,7 @@ Before joining the [University of Manchester](https://www.manchester.ac.uk/) as 
 
 # Education
 PhD in Physics | [National Centre for Radio Astrophysics -- Tata Institute of Fundamental Research](http://www.ncra.tifr.res.in/ncra/main) (Aug 2014-March2020)
+
 MSc in Physics | Indian Institute of Technology Kanpur [(IITK)](https://www.iitk.ac.in/) (June 2012-May2014)
+
 BSc in Physics (Hons) | [Asutosh College] -- [University of Calcutta](https://www.caluniv.ac.in/)
