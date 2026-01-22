@@ -26,4 +26,4 @@ PhD in Physics | [National Centre for Radio Astrophysics -- Tata Institute of Fu
 
 MSc in Physics | Indian Institute of Technology Kanpur [(IITK)](https://www.iitk.ac.in/) (June 2012-May2014)
 
-BSc in Physics (Hons) | [Asutosh College] -- [University of Calcutta](https://www.caluniv.ac.in/)
+BSc in Physics (Hons) | [Asutosh College -University of Calcutta](https://www.caluniv.ac.in/) (2009-2012)
