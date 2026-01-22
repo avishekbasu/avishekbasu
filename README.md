@@ -17,6 +17,6 @@ Before joining the [University of Manchester](https://www.manchester.ac.uk/) as 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-# Experience
+# 👨‍💼 Experience
 1. Postdoctoral Research Associate -- JBCA UoM (Sep 2020 -- Till date)
 2. Visiting Research Fellow -- NCRA-TIFR (April 2020 -- Aug 2020)
